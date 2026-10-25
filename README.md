@@ -1,12 +1,14 @@
 # Segunda-avalia-o
 
 
-
 **Identificação**: Vinicius Teixeira Opção 1 - Boletim de uma pequena turma
 
 **Descrição:** O programa resolve o cálculo da média de 3 notas pra turma de até 10 alunos.
 
-**Compilação e execução:** Basta executar o código em qualquer ide para c ou c++
+**Compilação e execução:** Usar esse site para executar o código —> [C Online Compiler](https://onecompiler.com/c)
+
+**Vídeo**: https://www.youtube.com/watch?v=AbLiZsXlc3w
+
 
 **Testes:** 2
 dsad
